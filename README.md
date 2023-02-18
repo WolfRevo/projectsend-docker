@@ -6,7 +6,7 @@ Influenced by https://github.com/linuxserver/docker-projectsend.
 
 # About
 
-This image is based on "php:7-apache" and projectsend r1295.
+This image is based on "php:7-apache" and projectsend r1605.
 
 See Dockerfile for more infos.
 
