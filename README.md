@@ -18,7 +18,7 @@ You can use the supplied docker-compose.yml:
     services:
       web:
         restart: unless-stopped
-        image: terrestris/projectsend:latest
+        image: worfrevo/projectsend:latest
         volumes:
           - /opt/projectsend/config:/config
           - /opt/projectsend/data:/data
